@@ -12,8 +12,4 @@ phases:
             - python --version
 artifacts:
     files:
-<<<<<<< Updated upstream
         - '**/*'
-=======
-        - '**/*'
->>>>>>> Stashed changes
